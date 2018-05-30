@@ -1,0 +1,2 @@
+# Speech-Translation
+(Using googletrans and speech_recognition)This program has a command line interface that allows you to record you voice using your computers microphone. Then you select the language you would like the output for (Japanese is the default). Then you can print the out put of the translation of the speech. You can switch languages as you go because the speech is saved until you rerecord. To use please have pyaudio installed which requires portaudio. 
